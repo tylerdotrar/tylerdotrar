@@ -12,7 +12,7 @@
 </p>
 
 
-## 💯 Offensive Tooling
+## ⭕️ Offensive Tooling
 
 <details>
   <summary>Click for Repos</summary>
@@ -82,7 +82,7 @@
   
 </details>
 
-## 🛠️ Infrastructure & Automation
+## ⭕️ Infrastructure & Automation
 
 <details>
   <summary>Click for Repos</summary>
@@ -92,7 +92,7 @@
   
 </details>
 
-## 🤖 CI/CD Projects
+## ⭕️ CI/CD Projects
 
 <details>
   <summary>Click for Repos</summary>
