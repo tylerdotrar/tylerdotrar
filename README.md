@@ -1,13 +1,14 @@
 <p align="center">
+    <!-- Changed 'github-readme-stats.vercel.app' to 'github-stats.proxbox.dev' -->
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tylerdotrar&count_private=true&hide_title=true&show_icons=false&hide=contribs&theme=dracula">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tylerdotrar&count_private=true&hide_title=true&show_icons=false&hide=contribs">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tylerdotrar&count_private=true&hide_title=true&show_icons=false&hide=contribs&theme=dracula" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.proxbox.dev/api?username=tylerdotrar&count_private=true&hide_title=true&show_icons=false&hide=contribs&theme=dracula">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats.proxbox.dev/api?username=tylerdotrar&count_private=true&hide_title=true&show_icons=false&hide=contribs">
+        <img align="center" src="https://github-stats.proxbox.dev/api?username=tylerdotrar&count_private=true&hide_title=true&show_icons=false&hide=contribs&theme=dracula" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerdotrar&layout=compact&theme=dracula">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerdotrar&layout=compact">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerdotrar&layout=compact&theme=dracula" />
+        <source media="(prefers-color-scheme: dark)" srcset="github-stats.proxbox.dev/api/top-langs/?username=tylerdotrar&layout=compact&theme=dracula">
+        <source media="(prefers-color-scheme: light)" srcset="github-stats.proxbox.dev/api/top-langs/?username=tylerdotrar&layout=compact">
+        <img align="center" src="https://github-stats.proxbox.dev/api/top-langs/?username=tylerdotrar&layout=compact&theme=dracula" />
     </picture>
 </p>
 
