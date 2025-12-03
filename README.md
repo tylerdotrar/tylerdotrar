@@ -89,7 +89,88 @@
   <summary>Click for Repos</summary>
   <br>
 
-  > Will fix this table later, when it's not 1:00am 😎
+  > ---
+  
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Stars</th>
+      <th>Description</th>
+      <th>Language</th>
+    </tr>
+    <!-- Activate-MicrosoftOffice -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/Activate-MicrosoftOffice"><b>Activate-MicrosoftOffice</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/Activate-MicrosoftOffice?style=flat"/></td>
+      <td>PowerShell tool to activate Microsoft Office 2016 - 2024 via static Professional Plus KMS client keys.</td>
+      <td><b>PowerShell</b></td>
+    </tr>
+    <!-- netbluf -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/netbluf"><b>netbluf</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/netbluf?style=flat"/></td>
+      <td>PowerShell tool to view, modify, and renew the configuration of the current default networking interface.</td>
+      <td><b>PowerShell</b></td>
+    </tr>
+    <!-- ProxmoxMaster -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/ProxmoxMaster"><b>ProxmoxMaster</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/ProxmoxMaster?style=flat"/></td>
+      <td>Central repository of custom Proxmox configuration scripts & VM/LXC service installation scripts hosted via CI/CD.</td>
+      <td><b>Shell</b></td>
+    </tr>
+    <!-- FarCry2-Schteve -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/FarCry2-Schteve"><b>FarCry2-Schteve</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/FarCry2-Schteve?style=flat"/></td>
+      <td>PowerShell TUI for automating the modding of Ubisoft's Far Cry® 2.</td>
+      <td><b>PowerShell</b></td>
+    </tr>
+    <!-- Unfuck-Windows10 -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/Unfuck-Windows10"><b>Unfuck-Windows10</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/Unfuck-Windows10?style=flat"/></td>
+      <td>PowerShell script to debloat Windows 10, enhance privacy, and improve performance & the overall user experience.</td>
+      <td><b>PowerShell</b></td>
+    </tr>
+    <!-- CleanBuilds -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/CleanBuilds"><b>CleanBuilds</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/CleanBuilds?style=flat"/></td>
+      <td>Collection of personal scripts for clean & custom images of different Operating Systems.</td>
+      <td><b>Shell</b></td>
+    </tr>
+    <!-- KingOfTheHomer -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/KingOfTheHomer"><b>KingOfTheHomer</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/KingOfTheHomer?style=flat"/></td>
+      <td>King of the Hill themed Homer Dashboard.</td>
+      <td><b>Shell</b></td>
+    </tr>
+    <!-- tc-taps -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/tc-taps"><b>tc-taps</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/tc-taps?style=flat"/></td>
+      <td>Simple bash scripts utilizing TC to tap VM/LXC network interfaces on Linux based hypervisors.</td>
+      <td><b>Shell</b></td>
+    </tr>
+    <!-- export-evtx -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/export-evtx"><b>export-evtx</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/export-evtx?style=flat"/></td>
+      <td>Export Windows Event Logs to a format ingestible by Security Onion (.evtx) within an offline archive.</td>
+      <td><b>PowerShell</b></td>
+    </tr>
+    <!-- Tiny-Tools -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/Tiny-Tools"><b>Tiny-Tools</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/Tiny-Tools?style=flat"/></td>
+      <td>Collection of small (but useful) PowerShell tools and scripts that aren't quite robust enough to warrant standalone repositories.</td>
+      <td><b>PowerShell</b></td>
+    </tr>
+  </table>
+  
+  > ---
   
 </details>
 
