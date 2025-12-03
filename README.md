@@ -180,6 +180,59 @@
   <summary>Click for Repos</summary>
   <br>
 
- > Will fix this table later, when it's not 1:00am 😎
+ > ---
+  
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Stars</th>
+      <th>Description</th>
+      <th>Language</th>
+    </tr>
+    <!-- resume -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/resume"><b>resume</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/resume?style=flat"/></td>
+      <td>Static Github Pages hosted resume with a modern, monotone aesthetic and mobile device support.</td>
+      <td><b>HTML/CSS/JavaScript</b></td>
+    </tr>
+    <!-- RGBwiki -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/RGBwiki"><b>RGBwiki</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/RGBwiki?style=flat"/></td>
+      <td>Aggregate wiki of offensive (Red), DevOps (Green), and defensive (Blue) knowledge in the form of an Obsidian Vault hosted by an mkdocs-material Github Pages site.</td>
+      <td><b>Markdown</b></td>
+    </tr>
+    <!-- mkdocs-coverpage -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/mkdocs-coverpage"><b>mkdocs-coverpage</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/mkdocs-coverpage?style=flat"/></td>
+      <td>Customizable cover page for an MkDocs site.</td>
+      <td><b>HTML</b></td>
+    </tr>
+    <!-- mkdocs-deploy-gh-pages -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/mkdocs-deploy-gh-pages"><b>mkdocs-deploy-gh-pages</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/mkdocs-deploy-gh-pages?style=flat"/></td>
+      <td>Personal fork of a GitHub Action to deploy an MkDocs site to GitHub Pages.</td>
+      <td><b>Shell</b></td>
+    </tr>
+    <!-- github-stats -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/github-stats"><b>github-stats</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/github-stats?style=flat"/></td>
+      <td>Personal fork for dynamically generated Github README stats.</td>
+      <td><b>JavaScript</b></td>
+    </tr>
+    <!-- Example-mdBook -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/Example-mdBook"><b>Example-mdBook</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/Example-mdBook?style=flat"/></td>
+      <td>Educational repository teaching how to easily create mdBook Github Pages utilizing custom domains.</td>
+      <td><b>Markdown</b></td>
+    </tr>
+  </table>
+  
+  > ---
   
 </details>
