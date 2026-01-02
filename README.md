@@ -126,19 +126,26 @@
       <td>PowerShell TUI for automating the modding of Ubisoft's Far Cry® 2.</td>
       <td><b>PowerShell</b></td>
     </tr>
+    <!-- winrice -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/winrice"><b>winrice</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/winrice?style=flat"/></td>
+      <td>Windows rice utilizing GlazeWM, Zebar, and Wezterm.</td>
+      <td><b>PowerShell/HTML</b></td>
+    </tr>
+    <!-- kalirice -->
+    <tr>
+      <td><a href="https://github.com/tylerdotrar/kalirice"><b>kalirice</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/tylerdotrar/kalirice?style=flat"/></td>
+      <td>Kali Linux rice utilizing i3-WM along with some custom tooling.</td>
+      <td><b>Shell</b></td>
+    </tr>
     <!-- Unfuck-Windows10 -->
     <tr>
       <td><a href="https://github.com/tylerdotrar/Unfuck-Windows10"><b>Unfuck-Windows10</b></a></td>
       <td><img src="https://img.shields.io/github/stars/tylerdotrar/Unfuck-Windows10?style=flat"/></td>
       <td>PowerShell script to debloat Windows 10, enhance privacy, and improve performance & the overall user experience.</td>
       <td><b>PowerShell</b></td>
-    </tr>
-    <!-- CleanBuilds -->
-    <tr>
-      <td><a href="https://github.com/tylerdotrar/CleanBuilds"><b>CleanBuilds</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/tylerdotrar/CleanBuilds?style=flat"/></td>
-      <td>Collection of personal scripts for clean & custom images of different Operating Systems.</td>
-      <td><b>Shell</b></td>
     </tr>
     <!-- KingOfTheHomer -->
     <tr>
